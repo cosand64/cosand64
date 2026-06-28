@@ -22,3 +22,8 @@ Welcome to my GitHub profile!
 - Here is my [LinkedIn](http://www.linkedin.com/in/connor-sanderson-544bb53a7)
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
+
+## Here are some of my Projects!
+
+- The Personal Pantheon (website) personal-pantheon.netlify.app
+- 
