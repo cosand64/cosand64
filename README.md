@@ -25,5 +25,5 @@ Feel free to explore my repositories and don't hesitate to reach out. Happy codi
 
 ## Here are some of my Projects!
 
-- The Personal Pantheon (website) the-personal-pantheon.netlify.app
+- The Personal Pantheon (website) [the-personal-pantheon.netlify.app](https://the-personal-pantheon.netlify.app/)
 - ReadySetTrial Launching July 22, 2026 -- https://github.com/cosand64/ReadySetTrial
