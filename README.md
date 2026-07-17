@@ -2,7 +2,7 @@
 
 Hello, GitHub! 👋
 
-I'm Connor Sander, a student at Brigham Young University-Idaho interested in software engineering with an emphisis in Software Design and Web Developement. 
+I'm Connor Sanderson, a student at Brigham Young University-Idaho interested in software engineering with an emphisis in Software Design and Web Developement. 
 Welcome to my GitHub profile!
 
 ## About Me
